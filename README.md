@@ -2,6 +2,7 @@
 ## AIM:
 Write a C program to read 3 characters one by one and print the characters in a reverse order.
 
+
 ## ALGORITHM:
 1.	Declare three character variables to store the input characters.
 2.	Use the scanf function to read the characters one by one from the user.
